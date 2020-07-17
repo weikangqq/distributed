@@ -1,0 +1,9 @@
+server:
+  port: 8801
+spring:
+  application:
+    name: distributed
+  redis:
+    host: 116.62.194.20
+    port: 6379
+    password: wiki1123
